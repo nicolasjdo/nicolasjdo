@@ -30,3 +30,4 @@
     <img src="https://img.shields.io/badge/Instagram-@postlab_studio-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+https://github-readme-stats.vercel.app/api?username=nicolasjdo)](https://github.com/anuraghazra/github-readme-stats
