@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**nicolasjdo/nicolasjdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Olá, eu sou Nicolas Justino de Oliveras!
 
-Here are some ideas to get you started:
+Tenho 13 anos e estou começando minha jornada no mundo da tecnologia. Sou apaixonado por desenvolvimento e estou sempre aprendendo coisas novas todos os dias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Atualmente estudando:
+
+HTML, CSS e JavaScript <img src:"https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"
+Lógica de Programação
+Desenvolvimento Full Stack
+
+🎯 Meu objetivo é me tornar um grande desenvolvedor e criar projetos incríveis que possam ajudar pessoas.
+
+📚 Sempre buscando evoluir e melhorar minhas habilidades!
