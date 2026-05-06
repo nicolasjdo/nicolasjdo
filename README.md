@@ -31,4 +31,4 @@
   </a>
 </p>
 
-[![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasjdo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasjdo&show_icons=true&theme=tokyonight)
