@@ -6,7 +6,7 @@ Tenho 13 anos e estou começando minha jornada no mundo da tecnologia. Sou apaix
 
 💻 Atualmente estudando:
 
-HTML, CSS e JavaScript <img src:"https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"
+HTML, CSS e JavaScript <img src"https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"
 Lógica de Programação
 Desenvolvimento Full Stack
 
